@@ -1,0 +1,21 @@
+{
+    "opt_num_cp": 18,
+    "nurbs_order": 3,
+    "global_start_pos": {
+        "lon": 2.291776,
+        "lat": 48.856548
+    },
+    "global_goal_pos": {
+        "lon": 2.29713,
+        "lat": 48.860042
+    },
+    "default_num_graph_edges": 7514752,
+    "default_num_graph_nodes": 300000,
+    "clipped_num_graph_edges": 5622254,
+    "clipped_num_graph_nodes": 227016,
+    "num_eval": 42560,
+    "num_gen": 75,
+    "raw_calc_time": 1243.825112581253,
+    "eval_calc_time": 1226.3526027202606,
+    "prep_calc_time": 85.29602026939392
+}
